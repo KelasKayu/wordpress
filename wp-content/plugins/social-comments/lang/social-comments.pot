@@ -1,0 +1,287 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/social-comments\n"
+"POT-Creation-Date: 2013-10-18 21:37:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/Simple_Panel_Class.php:667 classes/Simple_Panel_Class.php:675
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:34
+msgid "Save Settings"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:35
+msgid "Credits"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:36
+msgid "Latest From Bainternet"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:105
+msgid ""
+"Want to help make this plugin even better? All donations are used to improve "
+"and support, so donate $20, $50 or $100 now!"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:107
+msgid "Or you could:"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:109
+msgid "Rate the plugin 5&#9733; on WordPress.org"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:110
+msgid "Blog about it &amp; link to the plugin page"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:198
+#: classes/gpcomments_Panel_Class.php:199 config/main_plugin_fields.php:8
+msgid "Social Comments"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:214
+msgid "Social Comments Plugin"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:216
+msgid "If you have any questions or problems head over to"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:216
+msgid "Plugin Support"
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:217
+msgid "If you like my wrok then please "
+msgstr ""
+
+#: classes/gpcomments_Panel_Class.php:217
+msgid "Donate"
+msgstr ""
+
+#: config/main_plugin_fields.php:13
+msgid "How To display Social Comments"
+msgstr ""
+
+#: config/main_plugin_fields.php:22
+msgid ""
+"<strong>Stacked</strong> will place the each comment system under another "
+"based on the order below,<br/><strong>Tabbed</strong> will palce each "
+"comment system in its own tab based on the oder bellow"
+msgstr ""
+
+#: config/main_plugin_fields.php:27
+msgid "How To Trigger tabs?"
+msgstr ""
+
+#: config/main_plugin_fields.php:36
+msgid ""
+"<strong>Click</strong> will switch between Tabs on label click,<br/"
+"><strong>Hover</strong> will switch between Tabs on label hover<br /> Only "
+"used in tabbbed view."
+msgstr ""
+
+#: config/main_plugin_fields.php:41
+msgid "Social Comments display order"
+msgstr ""
+
+#: config/main_plugin_fields.php:52
+msgid "Drag and drop to set the order of the comment systems."
+msgstr ""
+
+#: config/main_plugin_fields.php:58
+msgid "Label Before tabs"
+msgstr ""
+
+#: config/main_plugin_fields.php:62
+msgid ""
+"Enter a label to show above the tabs something like <em>\"&lt;h2&gt;Comment "
+"Here&lt;/h2&gt;\"</em> (optional) leave lank for none."
+msgstr ""
+
+#: config/main_plugin_fields.php:71
+msgid "WordPress Comments settings"
+msgstr ""
+
+#: config/main_plugin_fields.php:82
+msgid "Enable native WordPress comments"
+msgstr ""
+
+#: config/main_plugin_fields.php:86
+msgid "UnCheck to disable the Native Comments"
+msgstr ""
+
+#: config/main_plugin_fields.php:92
+msgid "WordPress Comments tab label"
+msgstr ""
+
+#: config/main_plugin_fields.php:93 plugin.php:191
+msgid "WordPress"
+msgstr ""
+
+#: config/main_plugin_fields.php:96
+msgid "Enter WordPress Comments Tab label"
+msgstr ""
+
+#: config/main_plugin_fields.php:102
+msgid "WordPress Comments tab icon"
+msgstr ""
+
+#: config/main_plugin_fields.php:105
+msgid "You can upload a custom WordPress Tab icon"
+msgstr ""
+
+#: config/main_plugin_fields.php:114
+msgid "Disqus Comments settings"
+msgstr ""
+
+#: config/main_plugin_fields.php:120
+msgid "Enable Disqus comments"
+msgstr ""
+
+#: config/main_plugin_fields.php:124
+msgid "Check to enabled Disqus Comments"
+msgstr ""
+
+#: config/main_plugin_fields.php:131
+msgid "Disqus Shortname"
+msgstr ""
+
+#: config/main_plugin_fields.php:135
+msgid "Enter Disqus short name"
+msgstr ""
+
+#: config/main_plugin_fields.php:141
+msgid "Disqus Comments tab label"
+msgstr ""
+
+#: config/main_plugin_fields.php:142 plugin.php:197
+msgid "Disqus"
+msgstr ""
+
+#: config/main_plugin_fields.php:145
+msgid "Enter Disqus Comments Tab label"
+msgstr ""
+
+#: config/main_plugin_fields.php:151
+msgid "Disqus Comments tab icon"
+msgstr ""
+
+#: config/main_plugin_fields.php:154
+msgid "You can upload a custom Disqus Tab icon"
+msgstr ""
+
+#: config/main_plugin_fields.php:163
+msgid "Google Plus Comments settings"
+msgstr ""
+
+#: config/main_plugin_fields.php:169
+msgid "Enable Google Plus comments"
+msgstr ""
+
+#: config/main_plugin_fields.php:173
+msgid "Check to enable Google Plus Comments"
+msgstr ""
+
+#: config/main_plugin_fields.php:179
+msgid "Google Plus tab label"
+msgstr ""
+
+#: config/main_plugin_fields.php:180 plugin.php:194
+msgid "Google + "
+msgstr ""
+
+#: config/main_plugin_fields.php:183
+msgid "Enter Google Plus Tab label"
+msgstr ""
+
+#: config/main_plugin_fields.php:189
+msgid "Google Plus tab icon"
+msgstr ""
+
+#: config/main_plugin_fields.php:192
+msgid "You can upload a custom Google Plus Tab icon"
+msgstr ""
+
+#: config/main_plugin_fields.php:201
+msgid "Facebook Comments settings"
+msgstr ""
+
+#: config/main_plugin_fields.php:207
+msgid "Enable Facebook comments"
+msgstr ""
+
+#: config/main_plugin_fields.php:211
+msgid "Check to enable Facebook Comments"
+msgstr ""
+
+#: config/main_plugin_fields.php:217
+msgid "Facebook App ID"
+msgstr ""
+
+#: config/main_plugin_fields.php:221
+msgid "Enter Your Facebook App ID"
+msgstr ""
+
+#: config/main_plugin_fields.php:227
+msgid "Facebook Color Scheme"
+msgstr ""
+
+#: config/main_plugin_fields.php:235
+msgid "Select Facebook Comments color scheme"
+msgstr ""
+
+#: config/main_plugin_fields.php:241
+msgid "Facebook label"
+msgstr ""
+
+#: config/main_plugin_fields.php:242 plugin.php:203
+msgid "Facebook"
+msgstr ""
+
+#: config/main_plugin_fields.php:245
+msgid "Enter Facebook Tab label"
+msgstr ""
+
+#: config/main_plugin_fields.php:251
+msgid "Facebook tab icon"
+msgstr ""
+
+#: config/main_plugin_fields.php:254
+msgid "You can upload a custom Facebook Tab icon"
+msgstr ""
+
+#: config/main_plugin_fields.php:263
+msgid "Tabs Icon set"
+msgstr ""
+
+#: config/main_plugin_fields.php:269
+msgid "Select Icon Set for tabs"
+msgstr ""
+
+#: config/main_plugin_fields.php:275
+msgid ""
+"Select the Icon set you want to use when using tabs, as you can see not all "
+"sets have disqus icon so you can use the upload option at the disqus "
+"settings bellow"
+msgstr ""
+
+#: plugin.php:235
+msgid "Moderate Facebook Comments"
+msgstr ""
+
+#: plugin.php:264
+msgid "This is password protected."
+msgstr ""
